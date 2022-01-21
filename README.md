@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhondta&show_icons=true&count_private=true&theme=merko" alt="dhondta's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhondta&show_icons=true&line_height=33&count_private=true&theme=merko" alt="dhondta's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhondta&&hide=cmake&langs_count=4&line_height=35&theme=merko" alt="dhondta's Most Used Languages" />
 </p>
